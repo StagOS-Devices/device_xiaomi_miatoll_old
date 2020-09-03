@@ -10,5 +10,11 @@
     "target_path": "vendor/xiaomi",
     "branch": "sx",
     "remote": "stagos-devices"
+  },
+  {
+    "repository": "Demon000/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "lineage-17.1",
+    "remote": "github"
   }
 ]

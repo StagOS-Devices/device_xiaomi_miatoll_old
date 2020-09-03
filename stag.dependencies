@@ -2,13 +2,13 @@
   {
     "repository": "device_xiaomi_sm6250-common",
     "target_path": "device/xiaomi/sm6250-common",
-    "branch": "lineage-17.1",
+    "branch": "sx",
     "remote": "stagos-devices"
   },
   {
     "repository": "vendor_xiaomi_miatoll",
     "target_path": "vendor/xiaomi",
-    "branch": "lineage-17.1",
+    "branch": "sx",
     "remote": "stagos-devices"
   }
 ]
